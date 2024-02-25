@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Nikhil Nooli, a final year computer engineering student with a passion for full stack web development.<br><br>🛠️ Currently, I'm diving deep into building scalable web applications, focusing on both frontend and backend technologies.<br><br>🤝 I'm eager to collaborate on projects that challenge me to push my boundaries and contribute to impactful solutions.
+👋 Hey there! I'm Nikhil Nooli, a final year computer engineering student with a passion for full stack web development.<br><br>🛠️ Currently, I'm diving deep into building scalable web applications, focusing on both frontend and backend technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedln.com/in/nikhil-nooli) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/nikhil_nooli) 
